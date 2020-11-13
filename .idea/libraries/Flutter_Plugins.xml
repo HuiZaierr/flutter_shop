@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://C:/Develop/Flutter/download/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.7+3" />
+      <root url="file://C:/Develop/Flutter/download/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_web-0.1.2+7" />
+      <root url="file://C:/Develop/Flutter/download/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.22+1" />
+      <root url="file://C:/Develop/Flutter/download/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-0.1.1+6" />
+      <root url="file://C:/Develop/Flutter/download/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.4.11" />
+      <root url="file://C:/Develop/Flutter/download/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_macos-0.0.1+7" />
+      <root url="file://C:/Develop/Flutter/download/flutter/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-4.0.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
